@@ -1,3 +1,5 @@
+/*Start of Default styling*/
+
 body{
     background-color: lightgrey;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
@@ -300,14 +302,15 @@ button{
     background-color: teal;
     color: snow;
 }
+/*End of Default styling*/
 /*
-  These rules take effect when the browser's width
+  These below rules take effect when the browser's width
   is either 640px or less.
 */
 @media screen and (max-width: 640px) {
     h2 {
         margin-left: 0px;
-        width: 100%;
+        width: 99.95%;
         color: #ffffff;
         background-color: teal;
         height: 39px;
@@ -322,7 +325,7 @@ button{
 
     nav {
         float: none;
-        width: 99%;
+        width: 99.3%;
         margin-left: 0px;
         margin-top: 0px;
         background-color: white;
@@ -334,7 +337,7 @@ button{
     .mainSection_contact {
         /* clear: none; */
         background-color: #ffffff;
-        width: 508px;
+        width: 100%;
         margin-top: 80px;
         margin-left: 12%;
         height: 450px;
@@ -352,7 +355,7 @@ button{
     }
     .wrapper {
         min-height: auto;
-        width: 500px;
+        width: 80%  ;
     }
     .mainSection {
         /* clear: both; */
@@ -551,6 +554,12 @@ button{
     }
 
 }
+/*End of style rules for 640px or less.*/
+/*
+  These below rules take effect when the browser's width
+  is between 641px and 768px.
+*/
+
 @media (min-width: 641px) and (max-width: 768px) {
     h2 {
         margin-left: 26px;
@@ -754,3 +763,223 @@ button{
     }
 
 }
+/*End of style rules for screen width between 641px and 768px*/
+/*
+  These below rules take effect when the browser's width
+  is between 769px and 980px.
+*/
+@media (min-width: 761px) and (max-width: 980px) {
+
+    .myImg {
+        float: left;
+        padding-left: 21px;
+        margin-top: 22px;
+        padding-right: 19px;
+        padding-bottom: 10px;
+        height: 130px;
+        width: 150px;
+    }
+
+    h2 {
+        margin-left: 26px;
+        width: 160px;
+        color: #ffffff;
+        background-color: teal;
+        height: 39px;
+        padding-top: 21px;
+        padding-left: 21px;
+        padding-right: 21px;
+        text-align: center;
+        font-size: 21px;
+        float: left;
+        font-weight: bold;
+    }
+    nav {
+        float: right;
+        margin-right: 18px;
+        margin-top: 20px;
+    }
+    
+    .mainSection_contact {
+        clear: both;
+        background-color: #ffffff;
+        width: 55%;
+        margin-top: 30px;
+        margin-left: 26px;
+        height: 450px;
+        border-color: #dddddd;
+    }  
+    .mainSection {
+        clear: both;
+        background-color: #ffffff;
+        width: 55%;
+        margin-top: 30px;
+        margin-left: 26px;
+        height: 80%;
+        font-size: 85%;
+        border-color: #dddddd;
+    } 
+
+    .spts_1 {
+        height: 200px;
+        width: 225px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 40px;
+        left: 21px;
+    }
+      .div_Top{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt1 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 180px;
+        left: 30px;
+        text-align: center;
+        font-size: 12px;
+        width: 25%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .spts_2 {
+        height: 200px;
+        width: 225px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 40px;
+        left: 270px;
+    }
+    #cpt2 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 180px;
+        left: 280px;
+        text-align: center;
+        font-size: 12px;
+        width: 30%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .mainSection_Port {
+        clear: both;
+        background-color: #ffffff;
+        width: 55%;
+        margin-top: 30px;
+        margin-left: 26px;
+        height: 825px;
+        border-color: #dddddd;
+    }
+    .spts_3 {
+        height: 200px;
+        width: 225px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 260px;
+        left: 21px;
+    }
+      .div_Middle{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt3 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 405px;
+        left: 30px;
+        text-align: center;
+        font-size: 12px;
+        width: 25%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .spts_4 {
+        height: 200px;
+        width: 225px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 260px;
+        left: 270px;
+    }
+    #cpt4 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 405px;
+        left: 280px;
+        text-align: center;
+        font-size: 12px;
+        width: 30%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    
+    .spts_5 {
+        height: 200px;
+        width: 225px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 480px;
+        left: 21px;
+    }
+      .div_Bottom{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt5 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 625px;
+        left: 30px;
+        text-align: center;
+        font-size: 12px;
+        width: 25%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+
+}
+/*End of style rules for screen width between 769px and 980px*/
