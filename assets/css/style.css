@@ -336,7 +336,7 @@ button{
         background-color: #ffffff;
         width: 508px;
         margin-top: 80px;
-        margin-left: 15px;
+        margin-left: 12%;
         height: 450px;
         border-color: #dddddd;
     }
@@ -359,7 +359,7 @@ button{
         background-color: #ffffff;
         width: 90%;
         margin-top: 75px;
-        margin-left: 55px;
+        margin-left: 16%;
         height: 700px;
         border-color: #dddddd;
     }
@@ -394,8 +394,8 @@ button{
         background-color: #ffffff;
         width: 100%;
         margin-top: 75px;
-        margin-left: 26px;
-        height: 515px;
+        margin-left: 12%;
+        height: 1200px;
         border-color: #dddddd;
     }
     .div_Top {
@@ -403,9 +403,9 @@ button{
         position: none;
     }
     .spts_1 {
-        height: 130px;
-        width: 150px;
-        margin-left: 42px;
+        height: 200px;
+        width: 350px;
+        margin-left: 15%;
         margin-top: 25px;
         z-index: 1;
         position: none;
@@ -417,11 +417,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 120px;
-        left: 45px;
+        top: 190px;
+        left: 160px;
         text-align: center;
         font-size: 12px;
-        width: 20%;
+        width: 30%;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -431,10 +431,10 @@ button{
     }
 
     .spts_2 {
-        height: 130px;
-        width: 150px;
-        margin-left: 42px;
-        margin-top: 160px;
+        height: 200px;
+        width: 350px;
+        margin-left: 15%;
+        margin-top: 240px;
         z-index: 1;
         position: none;
         top: 0px;
@@ -445,11 +445,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 250px;
-        left: 35px;
+        top: 400px;
+        left: 160px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 30%;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -463,10 +463,10 @@ button{
         position: none;
     }
     .spts_3 {
-        height: 130px;
-        width: 150px;
-        margin-left: 42px;
-        margin-top: 280px;
+        height: 200px;
+        width: 350px;
+        margin-left: 15%;
+        margin-top: 455px;
         z-index: 1;
         position: none;
         top: 0px;
@@ -477,11 +477,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 370px;
-        left: 35px;
+        top: 620px;
+        left: 160px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 30%;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -491,25 +491,25 @@ button{
     }
 
     .spts_4 {
-        height: 130px;
-        width: 150px;
-        margin-left: 42px;
-        margin-top: 420px;
+        height: 200px;
+        width: 350px;
+        margin-left: 15%;
+        margin-top: 665px;
         z-index: 1;
         position: none;
         top: 0px;
         left: 0px;
     }
-    #cpt4{
+    #cpt4 {
         position: absolute;
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 510px;
-        left: 35px;
+        top: 830px;
+        left: 160px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 30%;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -523,10 +523,10 @@ button{
         position: none;
     }
     .spts_5 {
-        height: 130px;
-        width: 150px;
-        margin-left: 42px;
-        margin-top: 560px;
+        height: 200px;
+        width: 350px;
+        margin-left: 15%;
+        margin-top: 875px;
         z-index: 1;
         position: none;
         top: 0px;
@@ -537,11 +537,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 655px;
-        left: 45px;
+        top: 1040px;
+        left: 160px;
         text-align: center;
         font-size: 12px;
-        width: 20%;
+        width: 30%;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
