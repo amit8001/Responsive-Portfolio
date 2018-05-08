@@ -551,3 +551,206 @@ button{
     }
 
 }
+@media (min-width: 641px) and (max-width: 768px) {
+    h2 {
+        margin-left: 26px;
+        width: 160px;
+        color: #ffffff;
+        background-color: teal;
+        height: 39px;
+        padding-top: 21px;
+        padding-left: 21px;
+        padding-right: 21px;
+        text-align: center;
+        font-size: 21px;
+        float: left;
+        font-weight: bold;
+    }
+    nav {
+        float: right;
+        margin-right: 18px;
+        margin-top: 20px;
+    }
+    
+    .mainSection_contact {
+        clear: both;
+        background-color: #ffffff;
+        width: 93%;
+        margin-top: 15px;
+        margin-left: 26px;
+        height: 450px;
+        border-color: #dddddd;
+    }  
+    .mainSection {
+        clear: both;
+        background-color: #ffffff;
+        width: 93%;
+        margin-top: 30px;
+        margin-left: 26px;
+        height: 80%;
+        font-size: 85%;
+        border-color: #dddddd;
+    } 
+
+    .spts_1 {
+        height: 150px;
+        width: 300px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 25px;
+        left: 40px;
+    }
+      .div_Top{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt1 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 134px;
+        left: 100px;
+        text-align: center;
+        font-size: 12px;
+        width: 15%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .spts_2 {
+        height: 150px;
+        width: 300px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 25px;
+        left: 350px;
+    }
+    #cpt2 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 134px;
+        left: 411px;
+        text-align: center;
+        font-size: 12px;
+        width: 18%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .mainSection_Port {
+        clear: both;
+        background-color: #ffffff;
+        width: 700px;
+        margin-top: 15px;
+        margin-left: 26px;
+        height: 650px;
+        border-color: #dddddd;
+    }
+    .spts_3 {
+        height: 150px;
+        width: 300px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 190px;
+        left: 40px;
+    }
+      .div_Middle{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt3 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 295px;
+        left: 100px;
+        text-align: center;
+        font-size: 12px;
+        width: 15%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    .spts_4 {
+        height: 150px;
+        width: 300px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 190px;
+        left: 350px;
+    }
+    #cpt4 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 295px;
+        left: 411px;
+        text-align: center;
+        font-size: 12px;
+        width: 18%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+    
+    .spts_5 {
+        height: 150px;
+        width: 300px;
+        /* margin-left: 22px; */
+        /* margin-top: 25px; */
+        z-index: 1;
+        position: absolute;
+        top: 355px;
+        left: 40px;
+    }
+      .div_Bottom{
+        margin-top: -20px;
+        position: relative;
+      }
+    
+      #cpt5 {
+        position: absolute;
+        background-color: teal;
+        color: snow;
+        z-index: 3;
+        top: 465px;
+        left: 100px;
+        text-align: center;
+        font-size: 12px;
+        width: 15%;
+        font-family: serif;
+        font-weight: bold;
+        /* bottom: 32px; */
+        padding-bottom: 18px;
+        height: 4px;
+        padding-top: 3px;
+    }
+
+}
