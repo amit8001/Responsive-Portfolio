@@ -104,7 +104,7 @@ footer p {
   }
   .spts_1 {
     height: 130px;
-    width: 150px;
+    width: 180px;
     /* margin-left: 22px; */
     /* margin-top: 25px; */
     z-index: 1;
@@ -126,7 +126,7 @@ footer p {
     left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 150px;
+    width: 180px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -136,13 +136,13 @@ footer p {
 }
 .spts_2 {
     height: 130px;
-    width: 150px;
+    width: 180px;
     /* margin-left: 22px; */
     /* margin-top: 25px; */
     z-index: 1;
     position: absolute;
     top: 25px;
-    left: 220px;
+    left: 242px;
 }
 #cpt2 {
     position: absolute;
@@ -150,10 +150,10 @@ footer p {
     color: snow;
     z-index: 3;
     top: 124px;
-    left: 198px;
+    left: 220px;
     text-align: center;
     font-size: 12px;
-    width: 150px;
+    width: 180px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -172,7 +172,7 @@ footer p {
 }
 .spts_3 {
     height: 130px;
-    width: 150px;
+    width: 180px;
     /* margin-left: 22px; */
     /* margin-top: 25px; */
     z-index: 1;
@@ -194,7 +194,7 @@ footer p {
     left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 150px;
+    width: 180px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -204,13 +204,13 @@ footer p {
 }
 .spts_4 {
     height: 130px;
-    width: 150px;
+    width: 180px;
     /* margin-left: 22px; */
     /* margin-top: 25px; */
     z-index: 1;
     position: absolute;
     top: 170px;
-    left: 220px;
+    left: 242px;
 }
 #cpt4 {
     position: absolute;
@@ -218,10 +218,10 @@ footer p {
     color: snow;
     z-index: 3;
     top: 268px;
-    left: 198px;
+    left: 220px;
     text-align: center;
     font-size: 12px;
-    width: 150px;
+    width: 180px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -232,7 +232,7 @@ footer p {
 
 .spts_5 {
     height: 130px;
-    width: 150px;
+    width: 180px;
     /* margin-left: 22px; */
     /* margin-top: 25px; */
     z-index: 1;
@@ -254,7 +254,7 @@ footer p {
     left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 150px;
+    width: 180px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -341,7 +341,7 @@ button{
         width: 100%;
         margin-top: 80px;
         margin-left: 12%;
-        height: 450px;
+        height: 440px;
         border-color: #dddddd;
     }
     form {
@@ -364,7 +364,8 @@ button{
         width: 90%;
         margin-top: 75px;
         margin-left: 16%;
-        height: 700px;
+        margin-bottom: 70px;
+        height: 680px;
         border-color: #dddddd;
     }
     .abtMe, .portfolio {
@@ -399,7 +400,8 @@ button{
         width: 100%;
         margin-top: 75px;
         margin-left: 12%;
-        height: 1200px;
+        height: 1140px;
+        margin-bottom: 70px;
         border-color: #dddddd;
     }
     .div_Top {
@@ -563,7 +565,7 @@ button{
 
 @media (min-width: 641px) and (max-width: 768px) {
     h2 {
-        margin-left: 26px;
+        margin-left: 17px;
         width: 160px;
         color: #ffffff;
         background-color: teal;
@@ -585,18 +587,18 @@ button{
     .mainSection_contact {
         clear: both;
         background-color: #ffffff;
-        width: 93%;
+        width: 712px;
         margin-top: 15px;
-        margin-left: 26px;
+        margin-left: 17px;
         height: 450px;
         border-color: #dddddd;
-    }  
+    }
     .mainSection {
         clear: both;
         background-color: #ffffff;
-        width: 93%;
-        margin-top: 30px;
-        margin-left: 26px;
+        width: 712px;
+        margin-top: 15px;
+        margin-left: 17px;
         height: 80%;
         font-size: 85%;
         border-color: #dddddd;
@@ -609,7 +611,7 @@ button{
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 25px;
+        top: 40px;
         left: 40px;
     }
       .div_Top{
@@ -622,7 +624,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 137px;
+        top: 152px;
         left: 18px;
         text-align: center;
         font-size: 12px;
@@ -641,7 +643,7 @@ button{
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 25px;
+        top: 40px;
         left: 350px;
     }
     #cpt2 {
@@ -649,7 +651,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 137px;
+        top: 152px;
         left: 328px;
         text-align: center;
         font-size: 12px;
@@ -664,9 +666,10 @@ button{
     .mainSection_Port {
         clear: both;
         background-color: #ffffff;
-        width: 700px;
+        width: 702px;
         margin-top: 15px;
-        margin-left: 26px;
+        margin-left: 17px;
+        margin-bottom: 69px;
         height: 650px;
         border-color: #dddddd;
     }
@@ -677,7 +680,7 @@ button{
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 190px;
+        top: 210px;
         left: 40px;
     }
       .div_Middle{
@@ -690,7 +693,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 300px;
+        top: 320px;
         left: 18px;
         text-align: center;
         font-size: 12px;
@@ -709,7 +712,7 @@ button{
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 190px;
+        top: 210px;
         left: 350px;
     }
     #cpt4 {
@@ -717,7 +720,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 300px;
+        top: 320px;
         left: 328px;
         text-align: center;
         font-size: 12px;
@@ -737,7 +740,7 @@ button{
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 355px;
+        top: 380px;
         left: 40px;
     }
       .div_Bottom{
@@ -750,7 +753,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 466px;
+        top: 490px;
         left: 18px;
         text-align: center;
         font-size: 12px;
@@ -822,7 +825,7 @@ button{
     } 
 
     .spts_1 {
-        height: 200px;
+        height: 170px;
         width: 225px;
         /* margin-left: 22px; */
         /* margin-top: 25px; */
@@ -841,7 +844,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 198px;
+        top: 175px;
         left: -1px;
         text-align: center;
         font-size: 12px;
@@ -854,7 +857,7 @@ button{
         padding-top: 3px;
     }
     .spts_2 {
-        height: 200px;
+        height: 170px;
         width: 225px;
         /* margin-left: 22px; */
         /* margin-top: 25px; */
@@ -868,7 +871,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 198px;
+        top: 175px;
         left: 248px;
         text-align: center;
         font-size: 12px;
@@ -881,22 +884,23 @@ button{
         padding-top: 3px;
     }
     .mainSection_Port {
-        clear: both;
+        /* clear: both; */
         background-color: #ffffff;
-        width: 55%;
+        width: 520px;
         margin-top: 30px;
         margin-left: 26px;
-        height: 825px;
+        margin-bottom: 89px;
+        height: 651px;
         border-color: #dddddd;
     }
     .spts_3 {
-        height: 200px;
+        height: 170px;
         width: 225px;
         /* margin-left: 22px; */
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 260px;
+        top: 225px;
         left: 21px;
     }
       .div_Middle{
@@ -909,7 +913,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 416px;
+        top: 358px;
         left: -1px;
         text-align: center;
         font-size: 12px;
@@ -922,13 +926,13 @@ button{
         padding-top: 3px;
     }
     .spts_4 {
-        height: 200px;
+        height: 170px;
         width: 225px;
         /* margin-left: 22px; */
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 260px;
+        top: 225px;
         left: 270px;
     }
     #cpt4 {
@@ -936,7 +940,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 416px;
+        top: 358px;
         left: 248px;
         text-align: center;
         font-size: 12px;
@@ -948,15 +952,14 @@ button{
         height: 4px;
         padding-top: 3px;
     }
-    
     .spts_5 {
-        height: 200px;
+        height: 170px;
         width: 225px;
         /* margin-left: 22px; */
         /* margin-top: 25px; */
         z-index: 1;
         position: absolute;
-        top: 480px;
+        top: 410px;
         left: 21px;
     }
       .div_Bottom{
@@ -969,7 +972,7 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 636px;
+        top: 543px;
         left: -1px;
         text-align: center;
         font-size: 12px;
