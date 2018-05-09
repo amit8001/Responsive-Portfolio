@@ -75,6 +75,7 @@ p {
     padding-top: 16px;
     margin-left: 22px;
     margin-right: 22px;
+    padding-bottom: 10px;
 }
 .ftline {
     background-color: teal;
@@ -91,11 +92,11 @@ footer {
     width: 100%;
     text-align: center;
 }
-footer p{
+footer p {
     font-size: 10px;
     color: #ffffff;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 18px;
 }
 .wrapper {
    min-height:  auto;
@@ -122,10 +123,10 @@ footer p{
     color: snow;
     z-index: 3;
     top: 124px;
-    left: 40px;
+    left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 15%;
+    width: 150px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -149,10 +150,10 @@ footer p{
     color: snow;
     z-index: 3;
     top: 124px;
-    left: 211px;
+    left: 198px;
     text-align: center;
     font-size: 12px;
-    width: 18%;
+    width: 150px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -190,10 +191,10 @@ footer p{
     color: snow;
     z-index: 3;
     top: 268px;
-    left: 40px;
+    left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 15%;
+    width: 150px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -217,10 +218,10 @@ footer p{
     color: snow;
     z-index: 3;
     top: 268px;
-    left: 211px;
+    left: 198px;
     text-align: center;
     font-size: 12px;
-    width: 18%;
+    width: 150px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -250,10 +251,10 @@ footer p{
     color: snow;
     z-index: 3;
     top: 413px;
-    left: 40px;
+    left: 18px;
     text-align: center;
     font-size: 12px;
-    width: 15%;
+    width: 150px;
     font-family: serif;
     font-weight: bold;
     /* bottom: 32px; */
@@ -421,10 +422,10 @@ button{
         color: snow;
         z-index: 3;
         top: 190px;
-        left: 160px;
+        left: 54px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 340px;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -449,10 +450,10 @@ button{
         color: snow;
         z-index: 3;
         top: 400px;
-        left: 160px;
+        left: 54px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 340px;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -481,10 +482,10 @@ button{
         color: snow;
         z-index: 3;
         top: 620px;
-        left: 160px;
+        left: 54px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 340px;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -509,10 +510,10 @@ button{
         color: snow;
         z-index: 3;
         top: 830px;
-        left: 160px;
+        left: 54px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 340px;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -541,10 +542,10 @@ button{
         color: snow;
         z-index: 3;
         top: 1040px;
-        left: 160px;
+        left: 54px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 340px;
         font-family: serif;
         font-weight: bold;
         bottom: 0px;
@@ -621,11 +622,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 134px;
-        left: 100px;
+        top: 137px;
+        left: 18px;
         text-align: center;
         font-size: 12px;
-        width: 15%;
+        width: 300px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -648,11 +649,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 134px;
-        left: 411px;
+        top: 137px;
+        left: 328px;
         text-align: center;
         font-size: 12px;
-        width: 18%;
+        width: 300px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -689,11 +690,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 295px;
-        left: 100px;
+        top: 300px;
+        left: 18px;
         text-align: center;
         font-size: 12px;
-        width: 15%;
+        width: 300px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -716,11 +717,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 295px;
-        left: 411px;
+        top: 300px;
+        left: 328px;
         text-align: center;
         font-size: 12px;
-        width: 18%;
+        width: 300px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -749,11 +750,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 465px;
-        left: 100px;
+        top: 466px;
+        left: 18px;
         text-align: center;
         font-size: 12px;
-        width: 15%;
+        width: 300px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -840,11 +841,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 180px;
-        left: 30px;
+        top: 198px;
+        left: -1px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 225px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -867,11 +868,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 180px;
-        left: 280px;
+        top: 198px;
+        left: 248px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 225px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -908,11 +909,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 405px;
-        left: 30px;
+        top: 416px;
+        left: -1px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 225px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -935,11 +936,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 405px;
-        left: 280px;
+        top: 416px;
+        left: 248px;
         text-align: center;
         font-size: 12px;
-        width: 30%;
+        width: 225px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
@@ -968,11 +969,11 @@ button{
         background-color: teal;
         color: snow;
         z-index: 3;
-        top: 625px;
-        left: 30px;
+        top: 636px;
+        left: -1px;
         text-align: center;
         font-size: 12px;
-        width: 25%;
+        width: 225px;
         font-family: serif;
         font-weight: bold;
         /* bottom: 32px; */
