@@ -342,7 +342,8 @@ button{
         width: 100%;
         margin-top: 80px;
         margin-left: 12%;
-        height: 440px;
+        margin-bottom: 72px;
+        height: 444px;
         border-color: #dddddd;
     }
     form {
@@ -425,7 +426,7 @@ button{
         color: snow;
         z-index: 3;
         top: 190px;
-        left: 54px;
+        left: 58px;
         text-align: center;
         font-size: 12px;
         width: 340px;
@@ -453,7 +454,7 @@ button{
         color: snow;
         z-index: 3;
         top: 400px;
-        left: 54px;
+        left: 58px;
         text-align: center;
         font-size: 12px;
         width: 340px;
@@ -485,7 +486,7 @@ button{
         color: snow;
         z-index: 3;
         top: 620px;
-        left: 54px;
+        left: 58px;
         text-align: center;
         font-size: 12px;
         width: 340px;
@@ -513,7 +514,7 @@ button{
         color: snow;
         z-index: 3;
         top: 830px;
-        left: 54px;
+        left: 58px;
         text-align: center;
         font-size: 12px;
         width: 340px;
@@ -545,7 +546,7 @@ button{
         color: snow;
         z-index: 3;
         top: 1040px;
-        left: 54px;
+        left: 58px;
         text-align: center;
         font-size: 12px;
         width: 340px;
@@ -566,7 +567,7 @@ button{
 
 @media (min-width: 641px) and (max-width: 768px) {
     h2 {
-        margin-left: 17px;
+        margin-left: 27px;
         width: 160px;
         color: #ffffff;
         background-color: teal;
@@ -581,7 +582,7 @@ button{
     }
     nav {
         float: right;
-        margin-right: 18px;
+        margin-right: 28px;
         margin-top: 20px;
     }
     
@@ -590,20 +591,22 @@ button{
         background-color: #ffffff;
         width: 712px;
         margin-top: 15px;
-        margin-left: 17px;
+        margin-left: 26px;
+        margin-bottom: 91px;
         height: 450px;
         border-color: #dddddd;
     }
     .mainSection {
         clear: both;
         background-color: #ffffff;
-        width: 712px;
+        width: 93%;
         margin-top: 15px;
-        margin-left: 17px;
+        margin-left: 26px;
+        margin-bottom: 91px;
         height: 80%;
         font-size: 85%;
         border-color: #dddddd;
-    } 
+    }
 
     .spts_1 {
         height: 150px;
@@ -645,7 +648,7 @@ button{
         z-index: 1;
         position: absolute;
         top: 40px;
-        left: 350px;
+        left: 365px;
     }
     #cpt2 {
         position: absolute;
@@ -653,7 +656,7 @@ button{
         color: snow;
         z-index: 3;
         top: 152px;
-        left: 328px;
+        left: 343px;
         text-align: center;
         font-size: 12px;
         width: 300px;
@@ -667,9 +670,9 @@ button{
     .mainSection_Port {
         clear: both;
         background-color: #ffffff;
-        width: 702px;
+        width: 711px;
         margin-top: 15px;
-        margin-left: 17px;
+        margin-left: 26px;
         margin-bottom: 69px;
         height: 650px;
         border-color: #dddddd;
@@ -714,7 +717,7 @@ button{
         z-index: 1;
         position: absolute;
         top: 210px;
-        left: 350px;
+        left: 365px;
     }
     #cpt4 {
         position: absolute;
@@ -722,7 +725,7 @@ button{
         color: snow;
         z-index: 3;
         top: 320px;
-        left: 328px;
+        left: 343px;
         text-align: center;
         font-size: 12px;
         width: 300px;
@@ -773,7 +776,7 @@ button{
   These below rules take effect when the browser's width
   is between 769px and 980px.
 */
-@media (min-width: 761px) and (max-width: 980px) {
+@media (min-width: 769px) and (max-width: 980px) {
 
     .myImg {
         float: left;
@@ -810,20 +813,22 @@ button{
         background-color: #ffffff;
         width: 55%;
         margin-top: 30px;
+        margin-bottom: 100px;
         margin-left: 26px;
         height: 450px;
         border-color: #dddddd;
-    }  
+    } 
     .mainSection {
         clear: both;
         background-color: #ffffff;
         width: 55%;
         margin-top: 30px;
         margin-left: 26px;
+        margin-bottom: 100px;
         height: 80%;
         font-size: 85%;
         border-color: #dddddd;
-    } 
+    }
 
     .spts_1 {
         height: 170px;
